@@ -1,0 +1,121 @@
+course_id;category;sub-category;topic;course_name;level;price;duration
+CAMP-001-009-059;Marketing;Digital Marketing;Social Media;Perkenalan Marketing dan Iklan Facebook ;Basic;350969;0.1083
+CAMP-001-003-025;Marketing;Digital Marketing;Social Media;Manajemen dan Marketing Social Media ;Basic;313526;0.1069
+CAMP-001-003-027;Marketing;Digital Marketing;Social Media;Social Media Marketing;Basic;328520;0.0451
+CAMP-001-000-040;Marketing;Digital Marketing;Social Media;Belajar Dasar-dasar Digital dan Social Media Marketing;Basic;288732;0.1583
+CAMP-001-001-074;Marketing;Digital Marketing;Internet;Apa itu Online dan Digital Marketing?;Basic;297747;0.1188
+CAMP-001-000-001;Marketing;Digital Marketing;Internet;Strategi Online Marketing: Bagaimana cara mendapatkan lebih banyak trafik?;Intermediate;344433;0.0660
+CAMP-001-008-093;Marketing;Digital Marketing;Copywriting;Fundamental Copywriting untuk Pemula;Basic;331790;0.0688
+CAMP-001-004-029;Marketing;Digital Marketing;Copywriting;Tingkatkan Sales dengan Copywriting Menarik;Intermediate;439816;0.0438
+CAMP-001-000-022;Marketing;Digital Marketing;Google Analytic;Kuasai Google Analytics bagi Pemula;Basic;384020;0.1229
+CAMP-001-003-016;Marketing;Digital Marketing;Google Analytic;Bagaimana Cara Meningkatkan Kinerja Online Marketing?;Basic;409402;0.1465
+CAMP-001-008-023;Marketing;SEO ;SEO;SEO 101;Basic;367606;0.1382
+CAMP-001-001-046;Marketing;SEO ;SEO;Kenali Strategi SEO & Social Media Marketing;Basic;305167;0.1326
+CAMP-001-005-082;Marketing;SEO ;Keyword research;Kata kunci untuk Mencapai Halaman Pertama Google;Basic;411520;0.0625
+CAMP-001-009-071;Marketing;SEO ;Keyword research;Menempati peringkat #1 dengan Mastering Keyword Reasearch ;Intermediate;289730;0.0667
+CAMP-001-006-006;Marketing;Marketing Fundamental;Copywriting;Tingkatkan Sales dengan Copywriting Menarik;Intermediate;220317;0.1194
+CAMP-001-005-077;Marketing;Marketing Fundamental;Copywriting;Fundamental Copywriting untuk Pemula;Basic;291729;0.0743
+CAMP-001-002-047;Marketing;Marketing Fundamental;Marketing analytics;Menjadi Ahli Pemasaran dengan Data-Driven;Basic;316390;0.0451
+CAMP-001-004-028;Marketing;Marketing Fundamental;Marketing analytics;Analisis Marketing dan Manajemen Bisnis Retail;Intermediate;405116;0.0917
+CAMP-001-002-069;Marketing;Marketing Fundamental;Content writing;Kiat menjadi penulis sukses Web Content;Basic;405165;0.0965
+CAMP-001-002-053;Marketing;Marketing Fundamental;Content writing;Tingkatkan Kemampuan Content Writing untuk Web dan Marketing ;Basic;312108;0.1646
+CAMP-001-008-056;Marketing;Marketing Fundamental;Content writing;Pelajari Dasar-dasar Content Writing;Basic;332363;0.1229
+CAMP-001-003-026;Marketing;Social Media;Instagram;Konversi Followersmu menjadi Paying Customers;Basic;404269;0.1340
+CAMP-001-000-047;Marketing;Social Media;Instagram;Tingkatkan Promosi dan Pertumbuhan Instagram Bisnismu;Basic;283775;0.1361
+CAMP-001-003-014;Marketing;Social Media;Instagram;Pemasaran di Instagram menggunakan Hashtags, Live, Stories, dan Ads;Basic;357180;0.1319
+CAMP-001-001-014;Marketing;Social Media;Facebook Ads;Perkenalan Marketing dan Iklan Facebook ;Basic;450498;0.0639
+CAMP-001-005-063;Marketing;Social Media;Tik Tok Marketing;Sukses Membuat Content Marketing untuk pengguna TikTok;Basic;375659;0.0958
+CAMP-001-006-058;Marketing;Social Media;Tik Tok Marketing;Periklanan dan Pemasaran Tiktok 101;Basic;328015;0.1160
+CAMP-001-009-074;Marketing;Social Media;Tik Tok Marketing;TIngkatkan Sales Bisnismu dengan Content yang Viral dan Menaikkan Pertumbuhan Followers;Intermediate;401973;0.1285
+CAMP-001-005-060;Marketing;Social Media;Tik Tok Marketing;TIngkatkan Sales Bisnismu dengan Meningkatkan Pertumbuhan Followers;Intermediate;269219;0.1403
+CAMP-002-001-017;Development;Data Science;R Programming Language;Analisis Data menggunakan R;Basic;436642;0.0972
+CAMP-002-001-022;Development;Data Science;R Programming Language;Statistika Dasar di Analisis Data menggunakan R;Basic;560115;0.1597
+CAMP-002-009-039;Development;Data Science;Python ;Basic: Python untuk Pemula;Basic;454963;0.0514
+CAMP-002-001-033;Development;Data Science;Python ;Python untuk Sains Data;Basic;615773;0.0819
+CAMP-002-007-028;Development;Data Science;Python ;Analisis Marketing menggunakan Python;Intermediate;435239;0.1146
+CAMP-002-004-065;Development;Data Science;Python ;Analisis dan Visualisasi data dengan Python;Basic;522584;0.0951
+CAMP-002-003-044;Development;Data Science;Machine Learning;Dasar-dasar Machine Learning dan Data Science;Basic;645602;0.0674
+CAMP-002-003-079;Development;Data Science;Machine Learning;Machine Learning menggunakan Python dan R;Intermediate;591822;0.1549
+CAMP-002-008-038;Development;Data Science;Machine Learning;Analisis Segmentasi Pelanggan menggunakan Python ;Intermediate;509077;0.0417
+CAMP-002-002-063;Development;Data Science;Data Analysis;Analisis Data dengan Excel;Basic;391076;0.1118
+CAMP-002-000-044;Development;Data Science;Data Analysis;Analisis Data menggunakan Pandas;Basic;533810;0.1056
+CAMP-002-006-069;Development;Data Science;Statistics;MySQL untuk Statistika dan Analisa Bisnis;Basic;458598;0.0924
+CAMP-002-004-085;Development;Data Science;Statistics;Fundamental Probability dan Statistics;Basic;517565;0.0444
+CAMP-002-009-010;Development;Data Science;Statistics;Statistika untuk Analisis Bisnis dan Sains Data;Basic;547352;0.0722
+CAMP-002-002-084;Development;Programming Language;Python ;Basic: Python untuk Pemula;Basic;599596;0.0910
+CAMP-002-007-021;Development;Programming Language;Java;Dasar-dasar Bahasa Pemrograman Java Bagi Pemula;Basic;512460;0.0729
+CAMP-002-005-029;Development;Programming Language;React;Fundamental React Bagi Pemula;Basic;545153;0.1278
+CAMP-002-006-017;Development;Web Development;JavaScript ;JavaScript untuk Pemula;Basic;611101;0.0708
+CAMP-002-000-077;Development;Web Development;JavaScript ;Advanced JavaScript;Intermediate;614999;0.1118
+CAMP-002-007-030;Development;Web Development;React;Membangun Aplikasi dengan React ;Basic;487992;0.1167
+CAMP-002-009-022;Development;Web Development;CSS;Mendesain Web dengan CSS ;Basic;457323;0.0778
+CAMP-002-002-082;Development;Web Development;CSS;Dasar-dasar dalam Membuat Website Menggunakan CSS;Basic;392632;0.0590
+CAMP-002-008-002;Development;Database Development;SQL;Cara Termudah Mempelajari SQL ;Basic;509805;0.1333
+CAMP-002-002-088;Development;Database Development;SQL;Dasar Pemrograman SQL;Basic;343595;0.0556
+CAMP-002-003-035;Development;Database Development;SQL;Menganalisis Data menggunakan SQL di Google Big Query;Basic;600894;0.1396
+CAMP-002-006-072;Development;Database Development;MySQL;Mempelajari Dasar MySQL untuk Business Intelligence;Basic;374303;0.0813
+CAMP-002-001-076;Development;Database Development;MySQL;Mendesain Database dengan MySQL;Basic;618800;0.0785
+CAMP-002-004-053;Development;Database Development;Database Management;Optimalisasi Bisnis Menggunakan Teknik Integrasi Data ;Basic;433769;0.0701
+CAMP-002-003-053;Development;Database Development;Database Management;Fundamental Sistem Manajemen Database untuk Menjadi Analis Basis Data;Basic;629850;0.1243
+CAMP-002-002-031;Development;Database Development;Database Management;Mulai Karirmu dalam Analisis Data dengan SQL ;Basic;412477;0.0799
+CAMP-002-007-033;Development;Database Development;PostgreSQL;Pemodelan Basis Data dengan PostgreSQL dan Golang;Basic;538005;0.1278
+CAMP-002-004-071;Development;Database Development;SQL Server;Bangun Data Warehouse dengan SQL Server;Basic;595514;0.0931
+CAMP-003-002-095;Finance;Financial Analysis;Financial Analysis;Kuasai Ms. Excel untuk Analisis Finansial ;Basic;266872;0.0944
+CAMP-003-005-086;Finance;Financial Analysis;Financial Analysis;Kelas Pelatihan Keuangan untuk para Analis Finansial;Intermediate;269423;0.1549
+CAMP-003-008-062;Finance;Financial Analysis;Financial Modeling;Kelas Perencanaan dan Prediksi Finansial menggunakan Excel;Intermediate;317250;0.0604
+CAMP-003-001-074;Finance;Financial Analysis;Financial Modeling;Fundamental dan Permodelan Analisis Finansial;Basic;312887;0.1063
+CAMP-003-003-092;Finance;Finance;Personal Finance;Finance 101;Basic;279696;0.0833
+CAMP-003-009-001;Finance;Finance;Personal Finance;Dasar-dasar Keuangan Pribadi;Basic;286675;0.1257
+CAMP-003-007-064;Finance;Finance;Financial Management;Kelas Pelatihan untuk menjadi Manajer Keuangan ;Intermediate;286991;0.0826
+CAMP-003-000-059;Finance;Finance;Financial Management;Pondasi Finansial untuk Pemula;Basic;273848;0.0792
+CAMP-003-002-045;Finance;Finance;Banking;Belajar Menganalisis Proses Kredit pada Bank;Basic;316898;0.1243
+CAMP-003-000-070;Finance;Finance;Banking;Bisnis Bank 101;Basic;327597;0.1153
+CAMP-003-006-006;Finance;Finance;Banking;Belajar Inovasi pada Digital Banking;Intermediate;255990;0.0653
+CAMP-003-006-021;Finance;Finance;Investment Banking;Belajar Menganalisis Saham untuk Pemula;Basic;293666;0.1125
+CAMP-004-002-098;Business;Business Analytics & Intelligence;Microsoft PowerBI;Business Intelligence dengan Microsoft Power BI Desktop ;Basic;250691;0.1007
+CAMP-004-007-028;Business;Business Analytics & Intelligence;Microsoft PowerBI;Data Analitik dengan Power BI;Basic;239271;0.0500
+CAMP-004-008-001;Business;Business Analytics & Intelligence;Tableau;Visualisasi dan Analisis Data dengan Tableau Desktop;Basic;246398;0.1236
+CAMP-004-004-039;Business;Business Analytics & Intelligence;Tableau;Advanced Tableau menggunakan ekspresi Level of Detail ;Intermediate;244713;0.1069
+CAMP-004-000-084;Business;Business Analytics & Intelligence;Tableau;Eksplorasi Tableau Server dan Tableau Online untuk Para Analis Data;Basic;240776;0.0507
+CAMP-004-006-055;Business;Business Analytics & Intelligence;SQL;Mempelajari Dasar MySQL untuk Business Intelligence;Basic;247283;0.1521
+CAMP-004-004-042;Business;Business Analytics & Intelligence;Business Analysis;Fundamental Analis Bisnis;Basic;241332;0.1201
+CAMP-004-000-077;Business;Business Analytics & Intelligence;Business Analysis;Tingkatkan Kemampuan di Pemodelan dan Teknik Analis Bisnis;Basic;239390;0.1167
+CAMP-004-003-048;Business;Business Analytics & Intelligence;Business Analysis;Mempelajari Pentingnya Bisnis Analis di Teknik Informatika;Basic;273042;0.0931
+CAMP-004-002-005;Business;Business Analytics & Intelligence;Data Cleaning;Membersihkan dan Memanipulasi Data menggunakan Excel ;Basic;255203;0.0431
+CAMP-004-003-028;Business;Business Analytics & Intelligence;Data Cleaning;Penerapan Teknik Data Cleaning di Sains Data Melalui Python;Basic;245986;0.1181
+CAMP-004-002-016;Business;Business Analytics & Intelligence;Data Cleaning;Data Cleaning dan Preprocessing dengan R;Basic;263697;0.1181
+CAMP-004-008-039;Business;Business Analytics & Intelligence;Data Warehouse;Pelajari Konsep Data Warehouse;Basic;251032;0.1160
+CAMP-004-001-062;Business;Business Analytics & Intelligence;Data Warehouse;Konsep Data Warehouse basis Cloud;Basic;262108;0.1063
+CAMP-004-002-090;Business;Business Analytics & Intelligence;Business Intelligence;Business Intelligence dengan Microsoft Power BI Desktop ;Basic;251201;0.0958
+CAMP-004-006-016;Business;Business Analytics & Intelligence;Business Intelligence;Mempelajari Dasar MySQL untuk Business Intelligence;Basic;245811;0.1181
+CAMP-004-009-058;Business;Business Analytics & Intelligence;Business Intelligence;Data Warehouse dan Business Intelligence bagi para Manajer;Basic;252569;0.0514
+CAMP-004-000-098;Business;Human Resources;Recruiting;Optimalisasi Rekrut Pegawai Terbaik dengan Teknik Wawancara;Basic;248526;0.1389
+CAMP-004-005-071;Business;Human Resources;Recruiting;Perekrutan Social Media untuk tim HR Profesional ;Basic;252964;0.0729
+CAMP-004-007-046;Business;Human Resources;HR Analytics;Fundamental Analitik HR;Basic;252454;0.1028
+CAMP-004-002-000;Business;Human Resources;HR Analytics;Membuat Dashboard HR menggunakan Tableau Desktop;Basic;256071;0.1431
+CAMP-004-009-049;Business;Human Resources;HR Analytics;Analisis Data HR dengan Python;Basic;247272;0.0764
+CAMP-004-005-088;Business;Communication;Communication Skills;Bagaimana cara berkomunikasi yang efektif?;Basic;247612;0.1646
+CAMP-004-003-072;Business;Communication;Communication Skills;Strategi Menghadapi Difficult People di Dunia Kerja;Basic;273379;0.1056
+CAMP-004-004-041;Business;Communication;Communication Skills;Mahir dalam Seni Komunikasi;Basic;254839;0.0944
+CAMP-004-008-073;Business;Communication;Presentation Skills;Kuasai Presentasi yang Menarik dengan PowerPoint;Basic;264600;0.0472
+CAMP-004-001-094;Business;Communication;Presentation Skills;Presentasikan Hasilmu Secara Jelas, Powerful, dan Meyakinkan.;Basic;248785;0.1097
+CAMP-004-003-093;Business;Communication;Public Speaking;Kunci Tampil dan Berbicara di Depan Publik sebagai Profesional;Basic;248231;0.0521
+CAMP-004-002-099;Business;Communication;Storytelling;Storytelling untuk Bisnis;Basic;268230;0.0799
+CAMP-004-002-022;Business;Communication;Storytelling;Bagaimana Bercerita Menggunakan Data?;Basic;246415;0.1438
+CAMP-004-000-005;Business;Communication;Storytelling;Yakinkan Audiensmu dengan Storytelling;Basic;260937;0.0472
+CAMP-004-001-018;Business;Communication;Business Communication;Seni Storytelling dalam Komunikasi dan Presentasi;Basic;243082;0.0556
+CAMP-004-006-087;Business;Sales;Sales Skills;Tingkatkan Kemampuan Menjual dengan Value Product;Basic;243554;0.1257
+CAMP-004-003-060;Business;Sales;Business Development;Sales 101;Basic;253274;0.1583
+CAMP-004-006-002;Business;Sales;Presentation Skills;Yakinkan Audiensmu dengan Storytelling;Basic;264221;0.1083
+CAMP-004-004-011;Business;Sales;Customer Service;Bagaimana Cara Membuat Konsumenmu Terkesan?;Basic;254455;0.1278
+CAMP-005-004-063;Business;Sales;Customer Service;Dasar-dasar Kemampuan Lunak dalam Customer Service;Basic;245275;0.1042
+CAMP-005-005-086;Technology;Microsoft;Excel;Kuasai Ms. Excel untuk Analisis Finansial ;Basic;311311;0.0896
+CAMP-005-000-097;Technology;Microsoft;Excel;Kelas Perencanaan dan Prediksi Finansial menggunakan Excel;Basic;294236;0.1174
+CAMP-005-007-064;Technology;Microsoft;Microsoft PowerBI;Business Intelligence dengan Microsoft Power BI Desktop ;Basic;299473;0.0715
+CAMP-005-005-049;Technology;Microsoft;PowerPoint;Kuasai Desain Presentasi dengan PowerPoint;Basic;309797;0.1021
+CAMP-005-002-079;Technology;Google;Google Sheets;Bekerja menggunakan Formula dan Functions di Google Sheet;Basic;302148;0.1326
+CAMP-005-007-019;Technology;Google;Google Sheets;Dasar-dasar Google Sheet untuk Pemula;Basic;306249;0.0910
+CAMP-005-004-005;Technology;Google;Google Drive;Optimalkan Penyimpanan, Akses, dan Pengiriman Data menggunakan Google Drive;Basic;294241;0.1236
+CAMP-005-007-065;Technology;Google;Google Data Studio;Membangun Dashboard di Google Data Studio;Basic;296615;0.1083
+CAMP-005-004-071;Technology;Google;Google Data Studio;Menyusun Laporan dan Visualisasi Data menggunakan Google Data Studio;Basic;300275;0.0910
+CAMP-005-004-072;Technology;Google;Google Data Studio;Google Data Studio untuk Analitik Data dan Business Intelligence;Basic;306279;0.0979
